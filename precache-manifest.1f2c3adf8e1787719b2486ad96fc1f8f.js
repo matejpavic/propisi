@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c4fb9d779f237b434bdd9059feb7f7f7",
+    "revision": "e58aaa530980d48d68eeca32885a8602",
     "url": "/propisi/index.html"
   },
   {
-    "revision": "c274f1a27414f37bc6ba",
+    "revision": "3edf3a116f1e610395d9",
     "url": "/propisi/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "83a8b781e810d598a933",
+    "revision": "006b61e8f430fd1a5405",
     "url": "/propisi/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "c274f1a27414f37bc6ba",
-    "url": "/propisi/static/js/2.3dd01131.chunk.js"
+    "revision": "3edf3a116f1e610395d9",
+    "url": "/propisi/static/js/2.2af4e3be.chunk.js"
   },
   {
-    "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/propisi/static/js/2.3dd01131.chunk.js.LICENSE.txt"
+    "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
+    "url": "/propisi/static/js/2.2af4e3be.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "83a8b781e810d598a933",
-    "url": "/propisi/static/js/main.942c5ece.chunk.js"
+    "revision": "006b61e8f430fd1a5405",
+    "url": "/propisi/static/js/main.eeefd2e1.chunk.js"
   },
   {
     "revision": "9386c5577fc48210433d",
