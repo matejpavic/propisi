@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/propisi/static/css/main.5f361e03.chunk.css",
-    "main.js": "/propisi/static/js/main.67cb255a.chunk.js",
-    "main.js.map": "/propisi/static/js/main.67cb255a.chunk.js.map",
+    "main.js": "/propisi/static/js/main.4cceaf5c.chunk.js",
+    "main.js.map": "/propisi/static/js/main.4cceaf5c.chunk.js.map",
     "runtime-main.js": "/propisi/static/js/runtime-main.00ef47b5.js",
     "runtime-main.js.map": "/propisi/static/js/runtime-main.00ef47b5.js.map",
     "static/css/2.3c03f26f.chunk.css": "/propisi/static/css/2.3c03f26f.chunk.css",
     "static/js/2.2af4e3be.chunk.js": "/propisi/static/js/2.2af4e3be.chunk.js",
     "static/js/2.2af4e3be.chunk.js.map": "/propisi/static/js/2.2af4e3be.chunk.js.map",
     "index.html": "/propisi/index.html",
-    "precache-manifest.2f4cf471251ac3616816596b92fa1c98.js": "/propisi/precache-manifest.2f4cf471251ac3616816596b92fa1c98.js",
+    "precache-manifest.408dab58fe5e3732e0192c3df9c7ed57.js": "/propisi/precache-manifest.408dab58fe5e3732e0192c3df9c7ed57.js",
     "service-worker.js": "/propisi/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/propisi/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.5f361e03.chunk.css.map": "/propisi/static/css/main.5f361e03.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.2af4e3be.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.67cb255a.chunk.js"
+    "static/js/main.4cceaf5c.chunk.js"
   ]
 }
